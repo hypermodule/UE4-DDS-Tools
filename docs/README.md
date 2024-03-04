@@ -4,9 +4,9 @@
 
 # UE4-DDS-Tools ver0.5.5
 
-**This is a fork of https://github.com/matyalatte/UE4-DDS-Tools**
+⚠️ **Update (2024-03-04): Please use https://github.com/matyalatte/UE4-DDS-Tools instead of this fork!**
 
-The aim of this fork is to add support for UE5.3.
+* matyalatte's version has been updated with support for UE5.3, so there is no longer any need for hypermodule/UE4-DDS-Tools.
 
 ## Features
 
